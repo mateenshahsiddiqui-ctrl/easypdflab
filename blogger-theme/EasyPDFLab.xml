@@ -1,1 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html
+xmlns="http://www.w3.org/1999/xhtml"
+xmlns:b="http://www.google.com/2005/gml/b"
+xmlns:data="http://www.google.com/2005/gml/data"
+xmlns:expr="http://www.google.com/2005/gml/expr">
 
+<head>
+
+<title><data:blog.pageTitle/></title>
+
+<b:skin><![CDATA[
+
+/* EasyPDFLab Theme v1.0 */
+
+]]></b:skin>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
